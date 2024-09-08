@@ -23,3 +23,7 @@
 
 ## Funkcionalitātes izgudrojums:
 1) Iespēja rezervēt automašīnu
+
+
+### Insporations:
+- https://themes.potenzaglobalsolutions.com/html/cardealer/index.html
