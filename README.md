@@ -17,14 +17,9 @@
 - Lietotāji
 
 ## Izpilde:
-- [ ] Funkcionalitātes izgudrojums
-- [x] Dizaina skices (Figma)
+- [x] Dizaina skices (Figma) https://www.figma.com/design/J2wFH1sEKhM8auMcS55k1f/RentiAuto?node-id=0-1&node-type=canvas&t=XFzRYPuFSUvGWrAa-0
 - [ ] Front-end
 - [ ] Back-end
-
-## Funkcionalitātes izgudrojums:
-1) Iespēja rezervēt automašīnu
-
 
 ### Insporations:
 - https://themes.potenzaglobalsolutions.com/html/cardealer/index.html
