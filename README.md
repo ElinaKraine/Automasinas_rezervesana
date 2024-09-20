@@ -1,23 +1,24 @@
-# ![image](https://github.com/user-attachments/assets/be4fd855-8022-4d0a-9b7a-450c522c9985)
+# RentiAuto
+
 ### Mūsu vietnē jūs varat viegli un ātri iznomāt automašīnu jebkurām vajadzībām. Lietotājam draudzīgs interfeiss ļauj jums izvēlēties piemērotu automašīnu pēc kategorijas, datuma un nomas vietas. Mēs piedāvājam plašu transportlīdzekļu klāstu - no ekonomiskās klases automašīnām līdz premium klases un miniveniem. Pārredzami nosacījumi, pieņemamas cenas, diennakts atbalsts un ērtas maksājumu iespējas padara nomas procesu maksimāli ērtu. Rezervējiet automašīnu tiešsaistē dažu minūšu laikā un izbaudiet drošu un patīkamu ceļojumu!
 
-## Saturs (no kliena puse):
+## Saturs (no klienta puse):
 - Sākumlapa
-- Cenas un tarifi
+- Info (cenas, konfidencialitates politika)
 - Transports
 - Ziņas
 - Par mums
-- Papildu informācija
 
 ## Saturs (no admin puse):
 - Sākumlapa
 - Transports
-- Noma
-- Moderatori
+- Ziņas
+- Rezervacijas
+- Lietotāji
 
 ## Izpilde:
 - [ ] Funkcionalitātes izgudrojums
-- [ ] Dizaina skices (Figma)
+- [x] Dizaina skices (Figma)
 - [ ] Front-end
 - [ ] Back-end
 
@@ -27,3 +28,4 @@
 
 ### Insporations:
 - https://themes.potenzaglobalsolutions.com/html/cardealer/index.html
+- https://citybee.lv/lv/
